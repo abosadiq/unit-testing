@@ -1,0 +1,25 @@
+{
+  "name": "unity-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abosadiq/unit-testing.git"
+  },
+  "author": "Wafi Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abosadiq/unit-testing/issues"
+  },
+  "homepage": "https://github.com/abosadiq/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
